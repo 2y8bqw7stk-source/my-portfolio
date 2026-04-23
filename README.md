@@ -3,7 +3,7 @@
 🚀 Welcome to my personal portfolio repository. This project was designed to centralize my academic work, showcase my technical identity, and provide an interactive window into my software development projects.
 
 ## 🔗 Quick Links
-- **Live Demo:** [ali-alami-marktani.vercel.app]
+- **Live Demo:** [https://ali-alami-marktani.vercel.app/]
   
 ## 📌 Features
 - **Responsive Design:** Optimized navigation for mobile, tablet, and desktop using Flexbox and Media Queries.
