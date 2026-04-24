@@ -497,8 +497,7 @@ nav a {
         text-align: center;
         color: #000;
     }
-
-    /* Correction Hero pour mobile */
+git status    
     .hero { flex-direction: column; height: auto; }
     .hero-left {
         padding-top: 100px;
