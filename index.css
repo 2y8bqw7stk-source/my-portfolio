@@ -459,7 +459,8 @@ nav a {
     display: block;    
     margin: 20px auto; 
     padding: 0 15px;   
-    width: 90%;}      
+    width: 90%;}    
+      
 @media screen and (max-width: 768px) {
     .menu-toggle {
         display: flex;
@@ -497,7 +498,6 @@ nav a {
         text-align: center;
         color: #000;
     }
-git status    
     .hero { flex-direction: column; height: auto; }
     .hero-left {
         padding-top: 100px;
@@ -528,7 +528,7 @@ git status
         background: #fff;
     }
    .nav-menu.active {
-        display: flex !important;
+        display: flex ;
         position: fixed;
         top: 0;
         left: 0;
